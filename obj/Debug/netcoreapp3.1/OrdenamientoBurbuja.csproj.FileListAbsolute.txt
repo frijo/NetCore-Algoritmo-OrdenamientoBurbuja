@@ -1,0 +1,13 @@
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\bin\Debug\netcoreapp3.1\OrdenamientoBurbuja.exe
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\bin\Debug\netcoreapp3.1\OrdenamientoBurbuja.deps.json
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\bin\Debug\netcoreapp3.1\OrdenamientoBurbuja.runtimeconfig.json
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\bin\Debug\netcoreapp3.1\OrdenamientoBurbuja.runtimeconfig.dev.json
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\bin\Debug\netcoreapp3.1\OrdenamientoBurbuja.dll
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\bin\Debug\netcoreapp3.1\OrdenamientoBurbuja.pdb
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\obj\Debug\netcoreapp3.1\OrdenamientoBurbuja.csprojAssemblyReference.cache
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\obj\Debug\netcoreapp3.1\OrdenamientoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\obj\Debug\netcoreapp3.1\OrdenamientoBurbuja.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\obj\Debug\netcoreapp3.1\OrdenamientoBurbuja.AssemblyInfo.cs
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\obj\Debug\netcoreapp3.1\OrdenamientoBurbuja.dll
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\obj\Debug\netcoreapp3.1\OrdenamientoBurbuja.pdb
+C:\Users\David\Documents\Platzi\ASPNETCORE\OrdenamientoBurbuja\obj\Debug\netcoreapp3.1\OrdenamientoBurbuja.genruntimeconfig.cache
